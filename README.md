@@ -126,6 +126,6 @@ $ docker run -d --name docker-python-flask-uuid-generator-webpage -p 5000:5000 d
 
 ## Aplicação em Execução
 
-Acessando a aplicação web em http://localhost/.
+Acessando a aplicação web em http://localhost:5000/.
 
-![webproject](./webproject/img/project-exec.JPG "webproject")
+![webproject](./static/img/project-exec.JPG "webproject")
