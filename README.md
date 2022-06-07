@@ -1,4 +1,4 @@
-# Countdown
+# UUID Generator
 
 O projeto consiste num **container docker** que executa uma imagem **python** (gerada a partir de um **Dockerfile**) e através do **flask** exibe uma aplicação web desenvolvida em **html**, **css** e **bootstrap** que mostra um gerador de **UUID online**.
 
