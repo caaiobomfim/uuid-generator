@@ -117,11 +117,11 @@ $ docker build -t docker-uuid-generator .
 
 ## Criação e Execução do Container
 
-Criação e execução do container na porta 80 a partir da imagem **docker-uuid-generator**.
+Criação e execução do container na porta 5000 a partir da imagem **docker-uuid-generator**.
 
 ```docker
 users@DESKTOP MINGW64 ~/Documents/github-projects/uuid-generator
-$ docker run -d --name docker-python-flask-uuid-generator-webpage -p 80:80 docker-uuid-generator
+$ docker run -d --name docker-python-flask-uuid-generator-webpage -p 5000:5000 docker-uuid-generator
 ```
 
 ## Aplicação em Execução
